@@ -1,0 +1,202 @@
+/* css */
+body{
+margin:0;
+background-color:red;
+}
+.top-background{
+	background-image:url("god/keshav.jpg");
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-position:top;
+}
+.menu{
+	text-align:center;
+	font-size:18px;
+	color:3d;
+}
+.menu-u1 li{
+	display:inline-block;
+	font-variant:small-caps;
+	letter-spacing:3px;
+	padding:10px 30px;
+}
+a{
+	border-bottom:1px solid transparent;
+	color:block;
+	text-decoration:none;
+}
+
+a: hover{
+	border-bottom:1px solid white:
+}
+.sticky{
+	background:#0f4c75;
+	position:fixed;
+	width:100;
+	z-index:100;
+	
+}
+.sticky u1{
+	padding:0;
+	margin:10px;
+}
+.page-title{
+	text-align:center;
+	font-size:30px;
+	padding:200px;
+	color:3D;
+	letter-spacing:20px;
+	text-shadow:0 0 5px  #0f4c75;
+}
+.description .title{
+	font-variant:small-caps;
+	font-size:20px;
+	margin:20px;
+	color:3d;
+}
+.page-blocks{
+	text-align:center;
+	margin-top:50px;
+}
+.title{
+	letter-spacing:10px;
+	color:#0f4c75;
+}
+.designs img{
+	height:35%;
+	max-width:95%;
+	margin:15px;
+}
+.more-designs-btn{
+	background:white;
+	border:2px solid #0f4c75;
+	color :#0f4c75;
+	font-weight:300;
+	padding:10px;
+	margin:10px;
+	letter-spacing:2px;
+}
+.more-designs-btn:hover{
+	background: #0f4c75;
+	color:black;
+	transition:all 0.5s;
+}
+.flex-block{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:center;
+	overflow:hidden;
+}
+.why-us-flex-item{
+	background: #0f4c75;
+	color:white;
+	width:20%;
+	padding:40px;
+	margin:20px;
+}
+.block-label{
+	font-variant:small-caps;
+	font-size:25px;
+	margin-bottom:20px;
+	letter-spacing:5px;
+	color:blink;
+}
+.block-description{
+	
+	text-align:justify;
+	font-size:20px;
+	padding:20px;
+	color:3D;
+	letter-spacing:2px;
+	text-shadow:0 0 5px  #0f4c75;
+}
+.block-number{
+	font-weight:italic;
+	font-size:50px;
+	padding:20px;
+}
+.appointment-flex-item{
+	background:#0f4c75;
+	color:white;
+	height:450px;
+	width:45%;
+	padding:0px;
+	margin:20px 10px;
+	overflow:hidden;
+}
+.appointment-img{
+	background-image:url("god/keshav.jpg");
+}
+.appointment-text{
+	background-image:url("rsentry.jpg");
+	font-weight:italic;
+	padding:230px 20px;
+	font-size:35px;
+	background:rgba(0,0,0,0,5);
+	color:3d;
+	text-shadow:0 0 5px  #0f4c75;
+}
+.appointment-form{
+	padding:20px;
+}
+.appointment-form input, textarea{
+	height:40px;
+	width:60%;
+	max-width:70%;
+	padding:10px;
+	margin-bottom:10px;
+	outline:none;
+	text-align:center;
+	color:#0f4c75;
+	font-size:16px;
+}
+.appointment-form textarea{
+	height:200px;
+	max-height:100px;
+	max-width:60%;
+	overflow-y:scroll;
+}
+.appointment-btn{
+	border:2px solid white;
+	background:transparent;
+	color:black;
+	padding:15px;
+	outline:none;
+}
+.appointment-btn:hover{
+	background:black;
+	color:#0f4c75;
+}
+.footer{
+	background:#0f4c75;
+	text-align:center;
+	padding:20px;
+	margin-top:40px;
+}
+.locations{
+	color:white;
+	font-size:20px;
+	font-weight:bold;
+	display:inline-block;
+	min-width:27%;
+	letter-spacing:5px;
+	font-variant:small-caps;
+	padding:20px;
+}
+.address{
+	font-weight:lighter;
+	padding:20px;
+	font-size:16px;
+}
+.marquee{
+	text-align:center;
+	font-size:20px;
+	letter-spacing:10px;
+	text-shadow:0 0 5px  #0f4c75;
+	color:3d;
+	
+	
+}
+
+
+	
